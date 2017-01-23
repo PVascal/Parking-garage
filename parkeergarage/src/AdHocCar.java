@@ -1,5 +1,7 @@
 //package Parkeersimulator;
 
+// Dubbel test Pascal
+
 import java.util.Random;
 import java.awt.*;
 
